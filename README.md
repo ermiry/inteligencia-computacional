@@ -1,1 +1,3 @@
-inteligencia-computacional
+# Inteligencia Computacional
+
+Ejercicios de Inteligencia Computacional
